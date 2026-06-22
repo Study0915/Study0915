@@ -1,4 +1,4 @@
-# Hi, I'm Yiran Ma 👋
+# Hi👋
 
 I'm an undergraduate student at the **International School, Beijing University of Posts and Telecommunications (BUPT)**, majoring in **Telecommunications Engineering with Management**.
 I will soon pursue my master's degree at the **School of Information and Electronics, Beijing Institute of Technology (BIT)**.
