@@ -7,7 +7,8 @@ I will soon pursue my master's degree at the **School of Information and Electro
 
 `Automatic Speech Recognition` `AI Agents` `Machine Learning` `Intelligent Communications`
 
-### Education
+<details>
+<summary><b>Education</b></summary>
 
 | Institution                                        | Degree / Status                                                  |
 | -------------------------------------------------- | ---------------------------------------------------------------- |
@@ -15,12 +16,17 @@ I will soon pursue my master's degree at the **School of Information and Electro
 | Queen Mary University of London                    | First-Class Honours Bachelor's Degree                            |
 | Beijing Institute of Technology                    | Incoming Master's Student, School of Information and Electronics |
 
-### Highlights
+</details>
+
+<details>
+<summary><b>Highlights</b></summary>
 
 * First-Class Honours Bachelor's Degree from **Queen Mary University of London**
 * Most undergraduate courses graded **A**, with a few graded **B**
 * All major-related courses graded **A**
 * Provincial Third Prize, **Datang Cup Competition**, 2025
+
+</details>
 
 <details>
 <summary><b>Honors & Awards</b></summary>
