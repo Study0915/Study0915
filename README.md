@@ -1,8 +1,5 @@
 # Hi👋
 
-I'm an undergraduate student at the **International School, Beijing University of Posts and Telecommunications (BUPT)**, majoring in **Telecommunications Engineering with Management**.
-I will soon pursue my master's degree at the **School of Information and Electronics, Beijing Institute of Technology (BIT)**.
-
 ### Research Interests
 
 `Automatic Speech Recognition` `AI Agents` `Machine Learning` `Intelligent Communications`
